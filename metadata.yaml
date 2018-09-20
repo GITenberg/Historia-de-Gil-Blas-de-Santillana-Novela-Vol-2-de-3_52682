@@ -1,0 +1,42 @@
+_repo: Historia-de-Gil-Blas-de-Santillana-Novela-Vol-2-de-3_52682
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Isla, José Francisco de
+    aliases:
+    - Isla, Jose Francisco de
+    - Isla, Padre
+    - Rojo, José Francisco de Isla y
+    birthdate: 1703
+    deathdate: 1781
+    gutenberg_agent_id: '45937'
+    url: http://www.gutenberg.org/2009/agents/45937
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Lesage, Alain-René
+    - Le Sage, Alain Rene
+    - Sage, Alain-René le
+    - Sage, Alain René Le
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+description: ''
+gutenberg_issued: '2016-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52682'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Blas, Gil (Fictitious character) -- Fiction'
+- GITenberg
+title: 'Historia de Gil Blas de Santillana: Novela (Vol 2 de 3)'
+url: http://www.gutenberg.org/ebooks/52682
